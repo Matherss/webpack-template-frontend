@@ -1,5 +1,5 @@
 # webpack-template-frontend
-scss, babel, mini-css
+scss|sass, babel, mini-css, webpack-dev-server
 
 
 Сборка на продакшн: 
