@@ -2,6 +2,11 @@
 scss|sass, babel, mini-css, webpack-dev-server
 
 
+Установить все зависимости:
+```
+npm i
+```
+
 Сборка на продакшн: 
 ```
 npm run build
